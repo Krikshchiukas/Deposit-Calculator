@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background: #193549;
+    color: white;
+    font-family: 'helvetica neue', sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+  }
+
+table, th, td {
+    border-bottom: solid .5px rgb(28, 94, 72);
+    border-collapse: collapse;
+    padding: 15px;
+    margin: 25px;
+    
+   
+  }
+
+  #many1 {
+      background: red;
+      width: 40px;
+      height: 100px;
+  }
+
+  #height-after {
+      background: yellow;
+      width: 40px;
+      height: 0;
+  }
+  #diagram td {
+    vertical-align: bottom;
+    text-align: center;
+    padding: 10px;
+  }
+
+  #diagram div {
+    margin: auto;
+
